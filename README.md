@@ -5,6 +5,6 @@
 
 | #  | Название проекта | Направление | Стек | Описание проекта |
 | -- | ------------- | ------------- | ------------- | ------------- |
-| 1  | ссылка на проект  | Content Cell  | Content Cell  |
+| 1  | [GitHub Pages](https://pages.github.com/)  | Content Cell  | Content Cell  |
 | 2  | Content Cell  | Content Cell  | Content Cell  |
 | 3  | Content Cell  | Content Cell  | Content Cell  |
