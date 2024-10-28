@@ -4,18 +4,25 @@
 
 ## Описание проекта
 
-Для добывающей компании необходимо определить, где бурить новую скважину. 
-
-Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль, проанализировать возможную прибыль и риски техникой Bootstrap.
+Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча нефти принесёт наибольшую прибыль компании. Анализ возможной прибыли и рисков выполнены техникой Bootstrap.
 
 ## Навыки и инструменты
 
-- `python`
-- `pandas`
-- `seaborn` 
-- `numpy`
-- `scipy`
-- `missingno`
+- **python**
+- **pandas**
+- **matplotlib**
+- **seaborn** 
+- **numpy**
+- sklearn.model_selection.**train_test_split**
+- sklearn.model_selection.**GridSearchCV**
+- sklearn.preprocessing.**StandardScaler**
+- sklearn.preprocessing.**MinMaxScaler**
+- sklearn.pipeline.**Pipeline**
+- sklearn.compose.**ColumnTransformer**
+- sklearn.linear_model.**LinearRegression**
+- sklearn.metrics.**root_mean_squared_error**
+  sklearn.metrics.**make_scorer**
+
 
 ## Общий вывод
 
