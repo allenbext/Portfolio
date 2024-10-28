@@ -1,6 +1,6 @@
 # Выбор локации для скважины добывающей компании
 
-[DA for a Computer Game Store](https://github.com/allenbext/Portfolio/tree/main/DA%20for%20a%20Computer%20Game%20Store%20)
+[ipynb](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company.ipynb)
 
 ## Описание проекта
 
