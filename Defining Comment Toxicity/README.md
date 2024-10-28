@@ -1,6 +1,6 @@
 # Определение токсичности комментариев
 
-[ipynb](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company.ipynb)
+[ipynb](https://github.com/allenbext/Portfolio/blob/main/Defining%20Comment%20Toxicity/Defining_Comment_Toxicity.ipynb)
 
 ## Описание проекта
 
