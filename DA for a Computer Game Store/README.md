@@ -9,12 +9,12 @@
 
 ## Навыки и инструменты
 
-- `python`
-- `pandas`
-- `seaborn` 
-- `numpy`
-- `scipy`
-- `missingno`
+- **python**
+- **pandas**
+- **seaborn** 
+- **numpy**
+- **scipy**
+- **missingno**
 
 ## Общий вывод
 
