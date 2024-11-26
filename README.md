@@ -1,7 +1,7 @@
 # Portfolio
 *Data Science*
 
-**Here you can see some of my projects**
+**Here you can see some of my projects as part of the Professional Training Course 'Data Scientist' at Yandex Praktikum (INO CPE 'Yandex EdTech')**
 
 | #  | Project | Type | Skills | Descriotion |
 | -- | ----------------------------- | ------------- | ------------- | ------------- |
