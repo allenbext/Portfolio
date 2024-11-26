@@ -5,9 +5,9 @@
 
 ## Project Description
 
-Поиск закономерностей, определяющих успешность игр, для выявления потенциально популярного продукта и планирования рекламных акций. 
+Search for patterns that determine the success of games to identify potentially popular products and plan promotions. Hypothesis testing 
 
-## Навыки и инструменты
+## Skills and Tools
 
 - **python**
 - **pandas**
@@ -16,6 +16,6 @@
 - **scipy**
 - **missingno**
 
-## Общий вывод
+## General Conclusion
 
-Определены закономерности, предвещаюшие успех той или иной игре с разделением по регионам реализации. Даны рекомендации по проведению рекламных компаний по жанрам и платформам.
+The patterns that predict the success of a particular game with division by regions of implementation are determined. Recommendations are given for conducting advertising campaigns by genre and platform.
