@@ -1,10 +1,15 @@
 # Portfolio
 *Data Science*
 
-**Here you can see some of my projects as part of the Professional Training Course 'Data Scientist' at Yandex Praktikum (INO CPE 'Yandex EdTech')**
+**Here you can see some of my projects as part of the *Data Scientist* Professional Training Course at Yandex Praktikum (INO CPE Yandex EdTech)**
 
-Obtained Certificates
-Professional Training Ccourse ‘Data Scientist’ 
+Obtained Certificate of Completion:
+
+[*Data Scientist* Professional Training Course (en)](https://github.com/allenbext/Portfolio/blob/main/%D0%A1ertificate_DS_Bobneva_en.pdf)
+
+[*Data Scientist* Professional Training Course (ru)](https://github.com/allenbext/Portfolio/blob/main/%D0%A1ertificate_DS_Bobneva_ru.pdf)
+
+
 
 | #  | Project | Type | Skills | Description |
 | -- | ----------------------------- | ------------- | ------------- | ------------- |
