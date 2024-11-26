@@ -3,7 +3,7 @@
 
 **Here you can see some of my projects as part of the Professional Training Course 'Data Scientist' at Yandex Praktikum (INO CPE 'Yandex EdTech')**
 
-| #  | Project | Type | Skills | Descriotion |
+| #  | Project | Type | Skills | Description |
 | -- | ----------------------------- | ------------- | ------------- | ------------- |
 | 1  | [Determining the age of the buyer from a photograph](https://github.com/allenbext/Portfolio/tree/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph) | CV | *Python, Pandas, Matplotlib, Seaborn, NumPy, TensorFlow, Keras*  | Разработка модели для определения возраста покупателя по фотографии |
 | 2  | [Defining Comment Toxicity](https://github.com/allenbext/Portfolio/tree/main/Defining%20Comment%20Toxicity) | NLP | *Python, Pandas, NumPy, Sklearn, CatBoost, Spacy, Nltk, TF-IDF, Tdqm* | Обучение модели классифицировать комментарии на позитивные и негативные (токсичность комментариев) |
