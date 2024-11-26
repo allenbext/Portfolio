@@ -1,7 +1,8 @@
 # Data analysis for an online store selling computer games
 
 
-[ipynb](https://github.com/allenbext/Portfolio/blob/main/DA%20for%20a%20Computer%20Game%20Store/DA_for_a_Computer_Game_Store_(en).ipynb)
+[ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/DA%20for%20a%20Computer%20Game%20Store/DA_for_a_Computer_Game_Store_(en).ipynb)  
+[ipynb](https://github.com/allenbext/Portfolio/blob/main/DA%20for%20a%20Computer%20Game%20Store/DA_for_a_Computer_Game_Store.ipynb)  
 
 ## Project Description
 
