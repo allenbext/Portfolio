@@ -3,6 +3,9 @@
 
 **Here you can see some of my projects as part of the Professional Training Course 'Data Scientist' at Yandex Praktikum (INO CPE 'Yandex EdTech')**
 
+Obtained Certificates
+Professional Training Ccourse ‘Data Scientist’ 
+
 | #  | Project | Type | Skills | Description |
 | -- | ----------------------------- | ------------- | ------------- | ------------- |
 | 1  | [Determining the age of the buyer from a photograph](https://github.com/allenbext/Portfolio/tree/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph) | CV | *Python, Pandas, Matplotlib, Seaborn, NumPy, TensorFlow, Keras*  | Разработка модели для определения возраста покупателя по фотографии |
