@@ -1,7 +1,7 @@
 # Predicting customer churn for a telecom operator
 
 [ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(en).ipynb)  
-[ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(ru).ipynb)  
+[ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Predicting%20customer%20churn%20for%20a%20telecom%20operator/Predicting_customer_churn_for_a_telecom_operator_(ru).ipynb)  
 
 ## Project Description
 
