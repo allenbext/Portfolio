@@ -1,10 +1,10 @@
-# Выбор локации для скважины добывающей компании
+# Well Site Selection for Oil Company
 
 [ipynb](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company.ipynb)
 
-## Описание проекта
+## Project Description
 
-Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча нефти принесёт наибольшую прибыль компании. Анализ возможной прибыли и рисков выполнены техникой **Bootstrap**.
+It is necessary to build a machine learning model that will help determine the region where oil production will bring the most profit to the company. The analysis of possible profits and risks is performed using the **Bootstrap** technique.
 
 ## Навыки и инструменты
 
@@ -24,7 +24,6 @@
   sklearn.metrics.**make_scorer**
 
 
-## Общий вывод
+## General Conclusion
 
-На основе расчитанных техникой Bootstrap на 1000 выборок прибылей и рисков для каждого региона рекомендован определенный регион для разработки. Определен 95 % доверительный интервал.
-
+Based on the profit and risk estimates calculated by the Bootstrap technique for 1000 samples for each region, a specific region is recommended for development. A 95% confidence interval was determined.
