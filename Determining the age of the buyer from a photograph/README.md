@@ -1,12 +1,13 @@
 # Determining the age of_the buyer from a photograph
 
-[ipynb](https://github.com/allenbext/Portfolio/blob/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph/Determining_the_age_of_the_buyer_from_a_photograph.ipynb)
+[ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(en).ipynb)  
+[ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(ru).ipynb)
 
-## Описание проекта
+## Project Description
 
-Сетевой супермаркет внедряет систему компьютерного зрения для обработки фотографий покупателей. Требуется построить модель, которая по фотографии определит приблизительный возраст человека. 
+A chain supermarket is implementing a computer vision system to process customer photos. It is necessary to build a model that will determine a person's approximate age based on a photo. 
 
-## Навыки и инструменты
+## Skills and Tools
 
 - **python**
 - **pandas** 
@@ -21,6 +22,6 @@
 - tensorflow.keras.optimizers.**Adam**
 - tensorflow.**keras**
 
-## Общий вывод
+## General Conclusion
 
-Обученная модель достигла требуемой заданием метрики MAE. Переобучение отсутсвует. Полученная модель рекомендована к использованию для рекомендаций товара для определенной возрастной группы.
+The trained model achieved the required MAE metric. There is no overfitting. The resulting model is recommended for use in recommending products for a specific age group.
