@@ -1,4 +1,4 @@
-# Determining the age of_the buyer from a photograph
+# Determining the age of the buyer from a photograph
 
 [ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(en).ipynb)  
 [ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(ru).ipynb)
