@@ -6,7 +6,7 @@
 
 It is necessary to build a machine learning model that will help determine the region where oil production will bring the most profit to the company. The analysis of possible profits and risks is performed using the **Bootstrap** technique.
 
-## Навыки и инструменты
+## Skills and Tools
 
 - **python**
 - **pandas**
