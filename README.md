@@ -11,8 +11,7 @@ at Yandex Praktikum (INO CPE Yandex EdTech)**
 
 | #  | Project | Type | Skills | Description |
 | -- | ----------------------------- | ------------- | ------------- | ------------- |
-| 1  | [Predicting customer churn for a telecom operator  
-capstone project](https://github.com/allenbext/Portfolio/tree/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph) | ML | *Python, Pandas, Matplotlib, Seaborn, NumPy, TensorFlow, Keras*  | Building a model to determine the age of a buyer from a photograph |
+| 1  | [Predicting customer churn for a telecom operator](https://github.com/allenbext/Portfolio/tree/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph) | ML | *Python, Pandas, Matplotlib, Seaborn, NumPy, TensorFlow, Keras*  | Building a model to determine the age of a buyer from a photograph |
 | 2  | [Determining the age of the buyer from a photograph](https://github.com/allenbext/Portfolio/tree/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph) | CV | *Python, Pandas, Matplotlib, Seaborn, NumPy, TensorFlow, Keras*  | Building a model to determine the age of a buyer from a photograph |
 | 3  | [Defining Comment Toxicity](https://github.com/allenbext/Portfolio/tree/main/Defining%20Comment%20Toxicity) | NLP | *Python, Pandas, NumPy, Sklearn, CatBoost, Spacy, Nltk, TF-IDF, Tdqm* | Training the model to classify comments into positive and negative (comment toxicity) |
 | 4  | [Well Location for Oil Company](https://github.com/allenbext/Portfolio/tree/main/Well%20Location%20for%20Oil%20Company) | ML | *Python, Pandas, Matplotlib, Seaborn, NumPy, Sklearn* | Building a machine learning model to help determine where oil production will bring the company the greatest profit. Based on the predictions of the created model, an analysis of profit and risk was performed using the *Bootstrap* technique |
