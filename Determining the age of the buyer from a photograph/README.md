@@ -1,4 +1,4 @@
-# Определение возраста покупателей по фотографии
+# Determining the age of_the buyer from a photograph
 
 [ipynb](https://github.com/allenbext/Portfolio/blob/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph/Determining_the_age_of_the_buyer_from_a_photograph.ipynb)
 
