@@ -1,6 +1,7 @@
 # Well Site Selection for Oil Company
 
-[ipynb](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company.ipynb)
+[ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(en).ipynb)  
+[ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(ru).ipynb)  
 
 ## Project Description
 
