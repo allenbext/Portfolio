@@ -1,12 +1,12 @@
-# Определение токсичности комментариев
+# Defining Comment Toxicit
 
 [ipynb](https://github.com/allenbext/Portfolio/blob/main/Defining%20Comment%20Toxicity/Defining_Comment_Toxicity.ipynb)
 
-## Описание проекта
+## Project Description
 
-Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Требуется обучить модель классифицировать комментарии на позитивные и негативные. 
+The store needs a tool that will search for toxic comments and send them for moderation. It is necessary to train a model to classify comments into positive and negative. 
 
-## Навыки и инструменты
+## Skills and Tools
 
 - **python**
 - **pandas** 
@@ -23,6 +23,6 @@
 - sklearn.metrics.**f1_score**
 - catboost.**CatBoostClassifier**
 
-## Общий вывод
+## General Conclusion
 
-По результатам работы GridSearch на кросс-валидации выбраны 2 лучшие модели с различными результамами и временем обучения. Обе модели могут быть рекомендованы к использованию в зависимости от ключевых требований к их показателям.
+Based on the results of GridSearch cross-validation, 2 best models with different results and training times were selected. Both models can be recommended for use depending on the key requirements for their indicators.
