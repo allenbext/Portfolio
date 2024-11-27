@@ -1,7 +1,7 @@
 # Determining the age of the buyer from a photograph
 
 [ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph/Determining_the_age_of_the_buyer_from_a_photograph_(en).ipynb)  
-[ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(ru).ipynb)
+[ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Determining%20the%20age%20of%20the%20buyer%20from%20a%20photograph/Determining_the_age_of_the_buyer_from_a_photograph_(ru).ipynb)
 
 ## Project Description
 
