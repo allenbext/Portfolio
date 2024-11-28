@@ -1,4 +1,4 @@
-# Defining Comment Toxicit
+# Defining Comment Toxicity
 
 [ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Well%20Location%20for%20Oil%20Company/Well_Location_for_Oil_Company_(en).ipynb)  
 [ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Defining%20Comment%20Toxicity/Defining_Comment_Toxicity_(ru).ipynb)
