@@ -1,6 +1,6 @@
 # Predicting taxi orders for the next hour (time series)
 
-[ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Predicting%20customer%20churn%20for%20a%20telecom%20operator/Predicting_customer_churn_for_a_telecom_operator_(en).ipynb)  
+[ipynb (en)](https://github.com/allenbext/Portfolio/blob/main/Predicting%20taxi%20orders%20for%20the%20next%20hour%20(time%20series)/Predicting_taxi_orders_for_the_next_hour_(time_series)_(en).ipynb)  
 [ipynb (ru)](https://github.com/allenbext/Portfolio/blob/main/Predicting%20taxi%20orders%20for%20the%20next%20hour%20(time%20series)/Predicting_taxi_orders_for_the_next_hour_(time_series)_(ru).ipynb)  
 
 ## Project Description
